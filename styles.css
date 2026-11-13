@@ -1,0 +1,33 @@
+.top, .linkbar {
+    display: flex;
+    align-items: center;
+}
+.logo {
+    width: 100px;
+    height: auto;
+}
+.title {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bold;
+}
+a {
+    font-family: sans-serif;
+    font-style: normal;
+    text-decoration: none;
+    font-weight: bold;
+    color:rgb(0, 59, 220);
+}
+hr {
+    height: 7px;
+    background-color: black;
+    border-radius: 20px;
+}
+p {
+    font-family: sans-serif;
+    font-weight: 100;
+}
+h4 {
+    font-family: sans-serif;
+    font-weight: 1000;
+}
